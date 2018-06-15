@@ -6,6 +6,7 @@
   - Spring Boot
   - Spring Cloud
   - Eureka
+  - Feign
 - 开发工具
   - JDK1.8
   - Maven3
